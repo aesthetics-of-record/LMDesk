@@ -1,0 +1,14 @@
+[project]
+name = "pyloid-app"
+version = "0.1.0"
+description = "pyloid project!"
+readme = "README.md"
+
+requires-python = ">=3.9"
+dependencies = [
+    "fastapi>=0.115.12",
+    "litellm>=1.65.7",
+    "pyloid>=0.22.0",
+    "pyloid-builder>=0.1.0",
+    "uvicorn>=0.34.0",
+]
