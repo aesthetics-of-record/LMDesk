@@ -19,7 +19,7 @@
     "PySide6.QtUiTools",
     "PySide6.QtHelp"
   ],
-  "icon": "src-pyloid/icons/icon.png",
+  "icon": "src-pyloid/icons/icon.ico",
   "bundle": {
     "windows": "onefile",
     "macos": "app",

@@ -1,2 +1,4 @@
 pyloid
 pyloid-builder
+tinydb
+litellm>=1.65.7
